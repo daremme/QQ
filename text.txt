@@ -1,3 +1,4 @@
 a
 rgument
 wroteln ""Hail world"
+writeln "Hallo world!"
